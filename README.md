@@ -21,7 +21,7 @@ This project provides a robust and scalable REST API for managing a movie databa
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ethan-x11/MovieDbRESTAPI.git
+   git clone https://github.com/ethan-x11/MovieDb.git
    ```
 
 2. **Database Setup:**
