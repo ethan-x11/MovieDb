@@ -7,6 +7,7 @@ This project provides a robust and scalable REST API for managing a movie databa
 - **C#** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" height="20"> and **ASP.NET Core** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="35" height="20">: For building a fast and efficient API.
 - **SQL Server** : As a reliable relational database for storing movie information, actors, directors, etc.
 - **Firebase Storage** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20" height="20">: For secure and scalable storage of movie posters and other media assets.
+- **Specflow** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="20" height="20">: Used for Behavior Driven Development (BDD) testing to ensure the API behaves as expected from a user's perspective.
 
 ### Features
 
@@ -14,6 +15,7 @@ This project provides a robust and scalable REST API for managing a movie databa
 - **Search & Filtering:** Easily find movies based on title, genre, release year, actors, directors, and other criteria.
 - **User Authentication & Authorization:** Secure the API using industry-standard authentication methods. (**Implementation details will depend on your chosen approach**)
 - **Firebase Integration:** Seamlessly upload and retrieve movie posters and other media assets using Firebase Storage.
+- **Behavior Driven Development (BDD) Testing:** Implemented using Specflow for clear and maintainable tests, ensuring that the API behaves as expected from a user's perspective.
 
 ### Getting Started
 
